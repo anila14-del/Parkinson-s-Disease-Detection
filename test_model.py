@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+<<<<<<< HEAD
 Created on Mon Nov 11 16:05:34 2024
 
 @author: acer
 """
-
 import unittest
 from parkinsons_model import train_model, evaluate_model
 import numpy as np
@@ -44,3 +44,11 @@ class TestParkinsonsModel(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+<<<<<<< HEAD
+=======
+
+
+
+
+    
+>>>>>>> ad00a94 (Add and remove files as needed for the project)
